@@ -14,7 +14,7 @@ public class StudyHard {
 		System.out.println("입력받은 정수는 "+n+"입니다.");
 		
 		
-		
+		//
 		
 		
 	}
